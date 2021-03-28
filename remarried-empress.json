@@ -1,0 +1,17 @@
+{
+  "title": "Remarries Empress",
+  "description": "Opis: Cesarzowa Navier zostaje odtrącona przez swojego męża na rzecz Rashty, byłej niewolnicy, która zostaje jego kochanką. W międzyczasie poznaje księcia sąsiedniego kraju, który zaczyna zabiegać o jej względy.",
+  "artist": "TBD",
+  "author": "TBD",
+  "cover": "https://static.wikia.nocookie.net/the-remarried-empress/images/5/54/Naver_Cover.png",
+  "chapters": {
+    "1": {
+      "title": "Non empty",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/8xL2OzO/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
