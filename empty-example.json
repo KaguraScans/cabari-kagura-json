@@ -11,6 +11,14 @@
           "KaguraScans": "/proxy/api/imgur/chapter/<id albumu z imgura>/"
         },
         "last_updated": "<im dalszy chapter tym więszka liczba, żeby sortowanie działało>"
+      },
+      "<numer_następnego_rozdziału>": {
+        "title": "<Tytuł lub puste>",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/<id albumu z imgura>/"
+        },
+        "last_updated": "<im dalszy chapter tym więszka liczba, żeby sortowanie działało>"
       }
     }
   }
