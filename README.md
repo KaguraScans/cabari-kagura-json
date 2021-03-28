@@ -30,6 +30,8 @@ Co w zmianach
     }
 ```
 
+Rozdziały sortowane są po last_updated, więc zalecam to incrementować. Inaczej mogą wyjść numery jak z sortowaniem stron.
+
 Dodatkowe akcje w przypadku nowego projektu
 ---
 
