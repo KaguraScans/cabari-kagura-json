@@ -9,7 +9,7 @@ Instrukcja jak coś dodać
 1. Stwórz konto na Githubie
 2. Poproś mnie o prawa (Triage to najwięcej co dostaniesz)
 3. Stwórz pull requesta za zmianami (patrz co w zmianach)
-4. Pingnij mnie o approva
+4. Pingnij mnie o approva (JSONy są machine-friendly, nie user-friendly, więc trzeba sprawdzić czy json jest poprawny)
 5. Kiedy PR zostanie zaaprowowany odświżenie strony z projektem powinno wystarczyć
 
 Co w zmianach
@@ -29,3 +29,10 @@ Co w zmianach
       "last_updated": "0"
     }
 ```
+
+Dodatkowe akcje w przypadku nowego projektu
+---
+
+1. Click added file on Github and click raw
+2. Copy URL from browser to [git.io](https://git.io/) and generate short URL
+3. Go to cubari.moe and paste short URL from 2
