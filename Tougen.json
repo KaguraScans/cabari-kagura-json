@@ -1,6 +1,6 @@
 {
   "title": "Tougen Anki",
-  "description": "Obowiązkowy opis",
+  "description": "Shiki to nastolatek o skomplikowanych relacjach z ojcem, wszystko komplikuje się jeszcze bardziej, kiedy okazuje się, że w jego żyłach płynie krew oni. ",
   "artist": "",
   "author": "",
   "chapters": {
@@ -27,6 +27,86 @@
         "KaguraScans": "/proxy/api/imgur/chapter/uJKZ75J/"
       },
       "last_updated": "0"
+     },
+    "4": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/1HMXPed/"
+      },
+      "last_updated": "0"
+      },
+    "5": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/1aUofPk/"
+      },
+      "last_updated": "0"
+     },
+    "6": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/FlhOfWO/"
+      },
+      "last_updated": "0"
+     },
+    "7": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/aT1lXPr/"
+      },
+      "last_updated": "0" 
+     },
+    "8": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/qpel3OX/"
+      },
+      "last_updated": "0" 
+       },
+    "9": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/B79hcWi/"
+      },
+      "last_updated": "0" 
+     },
+    "10": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/3dAIgdL/"
+      },
+      "last_updated": "0" 
+      },
+    "11": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/IHLsAP9/"
+      },
+      "last_updated": "0" 
+     },
+    "12": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/eBv5X0g/"
+      },
+      "last_updated": "0" 
+      },
+    "13": {
+      "title": "",
+      "volume": "2",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/70By8A1/"
+      },
+      "last_updated": "0" 
     }
   }
 }
