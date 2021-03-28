@@ -10,7 +10,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/9K3wm6W/"
       },
-      "last_updated": "0"
+      "last_updated": "12345"
     },
     "2": {
       "title": "",
@@ -18,7 +18,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/WajB1KH/"
       },
-      "last_updated": "0"
+      "last_updated": "23456"
     },
     "3": {
       "title": "",
@@ -26,7 +26,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/uJKZ75J/"
       },
-      "last_updated": "0"
+      "last_updated": "34567"
      },
     "4": {
       "title": "",
@@ -34,7 +34,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/1HMXPed/"
       },
-      "last_updated": "0"
+      "last_updated": "45678"
       },
     "5": {
       "title": "",
@@ -42,7 +42,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/1aUofPk/"
       },
-      "last_updated": "0"
+      "last_updated": "56789"
      },
     "6": {
       "title": "",
@@ -50,7 +50,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/FlhOfWO/"
       },
-      "last_updated": "0"
+      "last_updated": "67890"
      },
     "7": {
       "title": "",
@@ -58,7 +58,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/aT1lXPr/"
       },
-      "last_updated": "0" 
+      "last_updated": "78901" 
      },
     "8": {
       "title": "",
@@ -66,7 +66,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/qpel3OX/"
       },
-      "last_updated": "0" 
+      "last_updated": "89012" 
        },
     "9": {
       "title": "",
@@ -74,7 +74,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/B79hcWi/"
       },
-      "last_updated": "0" 
+      "last_updated": "90123" 
      },
     "10": {
       "title": "",
@@ -82,7 +82,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/3dAIgdL/"
       },
-      "last_updated": "0" 
+      "last_updated": "101233" 
       },
     "11": {
       "title": "",
@@ -90,7 +90,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/IHLsAP9/"
       },
-      "last_updated": "0" 
+      "last_updated": "111234" 
      },
     "12": {
       "title": "",
@@ -98,7 +98,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/eBv5X0g/"
       },
-      "last_updated": "0" 
+      "last_updated": "123456" 
       },
     "13": {
       "title": "",
@@ -106,7 +106,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/70By8A1/"
       },
-      "last_updated": "0" 
+      "last_updated": "133456" 
     }
   }
 }
