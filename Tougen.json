@@ -1,0 +1,32 @@
+{
+  "title": "Tougen Anki",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "chapters": {
+    "1": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/9K3wm6W/"
+      },
+      "last_updated": "0"
+    },
+    "2": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/WajB1KH/"
+      },
+      "last_updated": "0"
+    },
+    "3": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/uJKZ75J/"
+      },
+      "last_updated": "0"
+    }
+  }
+}
