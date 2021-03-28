@@ -4,13 +4,13 @@
     "artist": "<Mintaka Kim>",
     "author": "<Shin Noah>",
     "chapters": {
-      : {
+      "1": {
         "title": "<>",
         "volume": "1",
         "groups": {
           "KaguraScans": "https://imgur.com/gallery/nyUYbvz"
         },
-        "last_updated": "<1123>"
+        "last_updated": "1123"
       }
     }
   }
