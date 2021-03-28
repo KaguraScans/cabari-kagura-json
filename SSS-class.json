@@ -9,8 +9,16 @@
         "volume": "1",
         "groups": {
           "KaguraScans": "/proxy/api/imgur/chapter/nyUYbvz"
-        },
+        }, 
         "last_updated": "1123"
+       },
+    "2": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/W80YsGE"
+      },
+      "last_updated": "2223"
       }    
     }
   }
