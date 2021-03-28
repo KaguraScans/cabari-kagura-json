@@ -15,7 +15,7 @@ Instrukcja jak coś dodać
 Co w zmianach
 ---
 
-1. Wrzuć rozdział na imgura. Uwaga reader sortuje alfanumerycznie więc mogą wychodzić kwiatki typu strony  kolejności:
+1. Wrzuć rozdział na imgura. Uwaga reader sortuje alfanumerycznie więc mogą wychodzić kwiatki typu strony w kolejności:
 1 10 100 11 ... 2 20 ... 3 4 5 6 7 8 9
 2. Dodać nowy obiekt pod kluczem chapters, np.
 
