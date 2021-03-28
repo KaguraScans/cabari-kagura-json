@@ -30,6 +30,23 @@ Co w zmianach
     }
 ```
 
+Alternatywnie
+
+```json
+    "numer rozdziału": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": [
+            "link do strony 1",
+            "link do strony 2",
+            "itp"
+        ]
+      },
+      "last_updated": "0"
+    }
+```
+
 Rozdziały sortowane są po last_updated, więc zalecam to incrementować. Inaczej mogą wyjść numery jak z sortowaniem stron.
 
 Dodatkowe akcje w przypadku nowego projektu
