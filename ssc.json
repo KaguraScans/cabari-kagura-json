@@ -4,6 +4,230 @@
   "artist": "TBD",
   "author": "TBD",
   "chapters": {
+     "1": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/GvH66xF/"
+      },
+      "last_updated": "0"
+    },
+    "2": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/zpgS76s/"
+      },
+      "last_updated": "0"
+    },
+    "3": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/7LfdZK7/"
+      },
+      "last_updated": "0"
+     },
+    "4": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/jMTSQ1c/"
+      },
+      "last_updated": "0"
+      },
+    "5": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/rNp17cV/"
+      },
+      "last_updated": "0"
+     },
+    "6": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/Mg7BbE6/"
+      },
+      "last_updated": "0"
+     },
+    "7": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/vAkf7Hg/"
+      },
+      "last_updated": "0" 
+     },
+    "8": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/WtG1Jx2/"
+      },
+      "last_updated": "0" 
+       },
+    "9": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/QAqTIQR/"
+      },
+      "last_updated": "0" 
+     },
+    "10": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/71p6xyZ/"
+      },
+      "last_updated": "0" 
+      },
+    "11": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/hZKbG6h/"
+      },
+      "last_updated": "0" 
+     },
+    "12": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/d6H0IYc/"
+      },
+      "last_updated": "0" 
+      },
+    "13": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/PLEGSnf/"
+      },
+      "last_updated": "0" 
+    },
+       "14": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/ceuDBk3/"
+      },
+      "last_updated": "0"
+    },
+    "15": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/ZhFBsnT/"
+      },
+      "last_updated": "0"
+    },
+    "16": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/ODxVl9s/"
+      },
+      "last_updated": "0"
+     },
+    "17": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/bkH00nA/"
+      },
+      "last_updated": "0"
+      },
+    "18": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/PGMyFWR/"
+      },
+      "last_updated": "0"
+     },
+    "19": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/MzNq1Y9/"
+      },
+      "last_updated": "0"
+     },
+    "20": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/14W8YkW/"
+      },
+      "last_updated": "0" 
+     },
+    "21": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/jZtjopL/"
+      },
+      "last_updated": "0" 
+       },
+    "22": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/MkPN6xT/"
+      },
+      "last_updated": "0" 
+     },
+    "23": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/1Ykd15b/"
+      },
+      "last_updated": "0" 
+      },
+    "24": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/1BFCrXT/"
+      },
+      "last_updated": "0" 
+     },
+     "25": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/izVtaDr/"
+      },
+      "last_updated": "0" 
+     },
+    "26": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/QaZmFwG/"
+      },
+      "last_updated": "0" 
+      },
+    "27": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/OC9hgXd/"
+      },
+      "last_updated": "0" 
+     },
+     "28": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/DWiFOU1/"
+      },
+      "last_updated": "0" 
+     },
     "29": {
       "title": "",
       "volume": "1",
@@ -18,7 +242,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/LJf2GHB/"
       },
-      "last_updated": "1"
+      "last_updated": "0"
     },
     "31": {
       "title": "",
@@ -26,7 +250,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/F64sgJD/"
       },
-      "last_updated": "2"
+      "last_updated": "0"
     },
     "32": {
       "title": "",
@@ -34,7 +258,7 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/pkJ1nIQ/"
       },
-      "last_updated": "3"
+      "last_updated": "0"
     }
   }
 }
