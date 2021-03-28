@@ -1,0 +1,16 @@
+{
+    "title": "<Tytuł lub puste>",
+    "description": "<Opis lub puste>",
+    "artist": "<Arstysta lub puste>",
+    "author": "<Autor lub puste>",
+    "chapters": {
+      "<numer_rozdziału>": {
+        "title": "<Tytuł lub puste>",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/<id albumu z imgura>/"
+        },
+        "last_updated": "<im dalszy chapter tym więszka liczba, żeby sortowanie działało>"
+      }
+    }
+  }
