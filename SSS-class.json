@@ -11,13 +11,13 @@
           "KaguraScans": "/proxy/api/imgur/chapter/nyUYbvz"
         },
         "last_updated": "1123"
-      }
-        "chapters": {
+    "chapters": {
       "2": {
         "title": "",
         "volume": "1",
         "groups": {
           "KaguraScans": "/proxy/api/imgur/chapter/W80YsGE
-        "last_updated": "1123"
+        "last_updated": "1123"    
+      }
     }
   }
