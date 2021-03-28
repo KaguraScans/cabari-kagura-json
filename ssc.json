@@ -4,6 +4,14 @@
   "artist": "TBD",
   "author": "TBD",
   "chapters": {
+    "1": {
+      "title": "To rozdział 31, ale chciałem coś przetestować",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/F64sgJD/"
+      },
+      "last_updated": "0"
+    },
     "29": {
       "title": "",
       "volume": "1",
