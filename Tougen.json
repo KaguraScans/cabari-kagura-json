@@ -46,7 +46,7 @@
       "last_updated": "56789"
      },
     "6": {
-      "title": "",
+      "title": "Erozja krwi, uwolnienie",
       "volume": "1",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/FlhOfWO/"
@@ -54,7 +54,7 @@
       "last_updated": "67890"
      },
     "7": {
-      "title": "",
+      "title": "Zabiję cię...",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/aT1lXPr/"
@@ -62,7 +62,7 @@
       "last_updated": "78901" 
      },
     "8": {
-      "title": "",
+      "title": "Nie zostawię cię",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/qpel3OX/"
@@ -70,7 +70,7 @@
       "last_updated": "89012" 
        },
     "9": {
-      "title": "",
+      "title": "Ja... dopiero zaczynam!",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/B79hcWi/"
@@ -78,7 +78,7 @@
       "last_updated": "90123" 
      },
     "10": {
-      "title": "",
+      "title": "To nie moja broszka",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/3dAIgdL/"
@@ -86,7 +86,7 @@
       "last_updated": "101233" 
       },
     "11": {
-      "title": "",
+      "title": "Twój ojciec",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/IHLsAP9/"
@@ -94,7 +94,7 @@
       "last_updated": "111234" 
      },
     "12": {
-      "title": "",
+      "title": "Pomóż mi",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/eBv5X0g/"
@@ -102,7 +102,7 @@
       "last_updated": "123456" 
       },
     "13": {
-      "title": "",
+      "title": "Docierasz do celu",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/70By8A1/"
@@ -110,7 +110,7 @@
       "last_updated": "133456"
        },
     "14": {
-      "title": "",
+      "title": "Niebezpieczni ludzie",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/BdT3YUL/"
@@ -118,7 +118,7 @@
       "last_updated": "133456"
        },
     "15": {
-      "title": "",
+      "title": "Oiranzaka Kyouya",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/2yegxzB/"
@@ -126,12 +126,20 @@
       "last_updated": "133456" 
        },
     "16": {
-      "title": "",
+      "title": "To moje pole bitwy",
       "volume": "2",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/VMD19WQ/"
       },
-      "last_updated": "133456" 
+      "last_updated": "133456"
+       },
+    "17": {
+      "title": "Granica obrzydliwości",
+      "volume": "2",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/wsXVNjE/"
+      },
+      "last_updated": "133456"
     }
   }
 }
