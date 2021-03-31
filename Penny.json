@@ -101,21 +101,13 @@
         },
         "last_updated": "0"
        },
-      "12": {
+       "12": {
         "title": "",
         "volume": "1",
         "groups": {
           "KaguraScans": "/proxy/api/imgur/chapter/RFyEh9S/"
         },
         "last_updated": "0"
-     },
-      "13": {
-        "title": "",
-        "volume": "1",
-        "groups": {
-          "KaguraScans": "/proxy/api/imgur/chapter/oDBRT7S/"
-        },
-        "last_updated": "0"        
-      }    
+       }
     }
   }
