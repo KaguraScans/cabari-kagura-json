@@ -1,0 +1,25 @@
+{
+  "title": "Hyperventilation",
+  "description": "Spotkanie pierwszej nieodwzajemnionej miłości podczas zjazdu klasowego w wieku 27 lat. Miłość, która straciła szansę na swój rozkwit... dokąd zmierza teraz?",
+  "artist": "TBD",
+  "author": "TBD",
+  "cover": "https://pbs.twimg.com/media/ETlzdumXsAANfDo.jpg",
+  "chapters": {
+    "0": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/wWB5Bei/"
+      },
+      "last_updated": "0"
+      },
+      "1": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/vR0xlpi/"
+        },
+        "last_updated": "0"  
+    }
+  }
+}
