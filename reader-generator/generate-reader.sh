@@ -67,14 +67,17 @@ INDEX_HTML
 
 while read -r manga_cubari_json; do
   declare cubari_json_basename; cubari_json_basename=$(basename "$manga_cubari_json")
-  declare manga_title; manga_title=$(jq -re '.title' "$manga_cubari_json")
+  declare manga_title; manga_title=$(jq -r '.title // ""' "$manga_cubari_json")
+  if [[ -z $manga_title ]]; then
+    echo "Failed to read title for $manga_cubari_json. Skipping."
+    continue
+  fi
   echo "Fetching reader URL for $manga_title" >&2
   declare shorten_url; shorten_url=$(
-    curl -s -i "$git_io_url" -F "url=$git_raw_base_url/$org_name/$repo_name/$this_branch/$cubari_json_basename" \
+    curl -s -i "$git_io_url" -F "url=$git_raw_base_url/$org_name/$repo_name/$this_branch/${cubari_json_basename// /%20}" \
       | awk '/Location:/ {print $2}'
   )
   shorten_url=${shorten_url#${git_io_url%/}/}
-  shorten_url=$(sed 's/\r\n$/$/g' <<< "$shorten_url")
   echo "<li><a href=\"$cubari_reader_base_url/$shorten_url\" target=\"_blank\">${manga_title}</a></li>" >> "$output_file"
 done < <(find "$kagura_base_dir" -name '*json' -not -name 'empty-example.json')
 
