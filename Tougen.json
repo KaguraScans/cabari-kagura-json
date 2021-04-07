@@ -127,7 +127,7 @@
        },
     "16": {
       "title": "To moje pole bitwy",
-      "volume": "2",
+      "volume": "3",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/VMD19WQ/"
       },
@@ -135,7 +135,7 @@
        },
     "17": {
       "title": "Granica obrzydliwości",
-      "volume": "2",
+      "volume": "3",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/wsXVNjE/"
       },
@@ -143,11 +143,19 @@
        },
     "18": {
       "title": "Powinna istnieć granica tego, jak bardzo można być zdeprawowanym",
-      "volume": "2",
+      "volume": "3",
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/EaAuEmG/"
       },
-      "last_updated": "133456"      
+      "last_updated": "133456"
+       },
+    "19": {
+      "title": "Nie przeszkadza mi bycie złym",
+      "volume": "3",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/1BdXvMd/"
+      },
+      "last_updated": "133456"
     }
   }
 }
