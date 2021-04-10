@@ -155,7 +155,15 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/YOpUXNK/"
       },
-      "last_updated": "1616368746" 
+      "last_updated": "1616368746"
+    },
+    "20": {
+      "title": "Koniec gry",
+      "volume": "3",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/QmN7rKC/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
