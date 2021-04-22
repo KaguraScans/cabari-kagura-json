@@ -323,7 +323,15 @@
       "groups": {
         "KaguraScans": "/proxy/api/imgur/chapter/AoTDvXf/"
       },
-      "last_updated": "0"     
+      "last_updated": "0" 
+       },
+    "41": {
+      "title": "",
+      "volume": "1",
+      "groups": {
+        "KaguraScans": "/proxy/api/imgur/chapter/RAFuK5k/"
+      },
+      "last_updated": "0"      
     }
   }
 }
