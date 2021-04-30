@@ -116,6 +116,22 @@
           "KaguraScans": "/proxy/api/imgur/chapter/MB5lrlQ/"
         },
         "last_updated": "0"  
-       }    
+       },
+       "14": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/n0JGppO/"
+        },
+        "last_updated": "0"
+        },
+       "15": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/xpqPKMM/"
+        },
+        "last_updated": "0"  
+       }   
     }
   }
