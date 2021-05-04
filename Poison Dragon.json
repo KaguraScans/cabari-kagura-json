@@ -68,6 +68,38 @@
           "KaguraScans": "/proxy/api/imgur/chapter/PfzZUvW"
         },
         "last_updated": "0" 
+            },
+      "8": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/vi3P5aK"
+        },
+        "last_updated": "0"
+         },
+      "9": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/QjNpRTU"
+        },
+        "last_updated": "0" 
+                  },
+      "10": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/g6DPDMf"
+        },
+        "last_updated": "0"
+         },
+      "11": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/hm7Tfhb"
+        },
+        "last_updated": "0" 
       }    
     }
   }
