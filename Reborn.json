@@ -1,0 +1,57 @@
+{
+"title": "Reborn 80,000 Years",
+    "description": "Fajny ma opis, kiedyś wstawię.",
+    "artist": "",
+    "author": "",
+    "cover": "https://tumanga.net/wp-content/uploads/5ddad4d7b0eb2-169.jpg",
+    "chapters": {
+        "107": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScan": "/proxy/api/imgur/chapter/9f3WGL6/"
+        }, 
+        "last_updated": "0" 
+      },
+      "108": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScan": "/proxy/api/imgur/chapter/yatEpfa/"
+        },
+        "last_updated": "0"
+       },
+      "109": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScan": "/proxy/api/imgur/chapter/4TqF58A/"
+        },
+        "last_updated": "0"
+        },
+      "110": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScan": "/proxy/api/imgur/chapter/yatEpfa/"
+        },
+        "last_updated": "0"
+       },
+      "111": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScan": "/proxy/api/imgur/chapter/4TqF58A/"
+        },
+        "last_updated": "0" 
+         },
+      "112": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScan": "/proxy/api/imgur/chapter/4TqF58A/"
+        },
+        "last_updated": "0" 
+         }    
+    }
+  }
