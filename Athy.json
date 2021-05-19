@@ -28,6 +28,14 @@
           "KaguraScan": "/proxy/api/imgur/chapter/4TqF58A/"
         },
         "last_updated": "0"
+           },
+      "4": { 
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScan": "/proxy/api/imgur/chapter/z4z3A28/"
+        },
+        "last_updated": "0"  
          }    
     }
   }
