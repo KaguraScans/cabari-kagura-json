@@ -483,7 +483,87 @@
         "groups": {
           "KaguraScans": "/proxy/api/imgur/chapter/S2k9GRM/"
         },
-        "last_updated": "0"               
+        "last_updated": "0"   
+                  },
+        "61": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/mJ8F2Bb/"
+        },
+        "last_updated": "0"  
+                },
+        "62": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/7cA8cza/"
+        },
+        "last_updated": "0"
+                    },
+        "63": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/QCsXhs6/"
+        },
+        "last_updated": "0"  
+                },
+        "64": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/QgPOmGT/"
+        },
+        "last_updated": "0"  
+                    },
+        "65" {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/2rCaDC4/"
+        },
+        "last_updated": "0"  
+                },
+        "66": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/GNuOTq9/"
+        },
+        "last_updated": "0"  
+                     },
+        "67": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/KDvIanb/"
+        },
+        "last_updated": "0"  
+                },
+        "68": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/smOFXrf/"
+        },
+        "last_updated": "0" 
+        }   
+         "69": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/k7V394u/"
+        },
+        "last_updated": "0"  
+                },
+        "70": {
+        "title": "",
+        "volume": "1",
+        "groups": {
+          "KaguraScans": "/proxy/api/imgur/chapter/e8Nn9wr/"
+        },
+        "last_updated": "0"                   
       }   
     }
   }
